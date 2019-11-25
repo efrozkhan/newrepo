@@ -1,3 +1,3 @@
 # newrepo
 new
-hellow world
+hellow world 1.2..2
